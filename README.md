@@ -51,3 +51,5 @@
 #This Sales Dashboard project in Power BI gave me hands-on experience in the full cycle of data analytics – from data preparation to insights presentation. It highlights how data visualization can empower business stakeholders to make informed and strategic decisions. I thoroughly enjoyed creating this dashboard, and it has strengthened my skills in Power BI, DAX, and business data analysis.
 
 ## OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/68791389-8d73-4bc8-9caa-180671237355)
